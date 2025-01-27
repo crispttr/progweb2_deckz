@@ -1,0 +1,21 @@
+{
+  "name": "challenge16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Card.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
